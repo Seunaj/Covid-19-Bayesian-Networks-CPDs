@@ -7,5 +7,5 @@ This repo contains the codes for generating the Bayesian network structure and t
 
 * DSID model.ipynb -> Contains code for designing the supervised ML model architecture (using Tensorflow and Keras framework) and plots the metrics for comparison.
 
-# Citation
+## Citation
 If you use this code in your work, please cite the accompanying paper:
