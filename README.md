@@ -10,5 +10,12 @@ This repo contains the codes for generating the Bayesian network structure and t
 ## Citation
 If you use this code in your work, please cite the accompanying paper:
 ```
-
+@misc{ajayi2024bayesian,
+      title={Bayesian Networks and Machine Learning for COVID-19 Severity Explanation and Demographic Symptom Classification}, 
+      author={Oluwaseun T. Ajayi and Yu Cheng},
+      year={2024},
+      eprint={2406.10807},
+      archivePrefix={arXiv},
+      primaryClass={id='stat.ML' full_name='Machine Learning' is_active=True alt_name=None in_archive='stat' is_general=False description='Covers machine learning papers (supervised, unsupervised, semi-supervised learning, graphical models, reinforcement learning, bandits, high dimensional inference, etc.) with a statistical or theoretical grounding'}
+}
 ```
